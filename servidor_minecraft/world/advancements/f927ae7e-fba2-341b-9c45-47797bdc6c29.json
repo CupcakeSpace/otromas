@@ -7478,6 +7478,18 @@
     },
     "done": true
   },
+  "vinery:recipes/mangrove_wine_rack_small": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-10-03 21:26:16 +0000"
@@ -7496,9 +7508,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_big": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-10-03 21:49:04 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/sandstone_counter": {
     "criteria": {
       "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_shelf": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-10-03 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_table": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
@@ -7520,9 +7568,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-10-03 21:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
@@ -7538,6 +7604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-10-03 21:27:47 +0000"
@@ -7546,7 +7618,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-10-03 21:37:02 +0000"
+      "minecraft:skeleton": "2025-10-03 21:37:02 +0000",
+      "minecraft:spider": "2025-10-03 21:51:25 +0000"
     },
     "done": false
   },
@@ -7556,9 +7629,45 @@
     },
     "done": true
   },
+  "candlelight:recipes/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_table": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-03 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_shelf": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
@@ -7571,6 +7680,42 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-10-03 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-03 21:49:04 +0000"
     },
     "done": true
   },

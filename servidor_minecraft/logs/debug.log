@@ -19780,3 +19780,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 21:41:46.865] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4675, y=5, z=14117}
 [03Oct2025 21:42:57.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Oct2025 21:42:57.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 21:47:57.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 21:47:57.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 21:51:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Redcap
+[03Oct2025 21:51:41.675] [Server thread/DEBUG] [twilightforest/]: Player CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29) respawned and received items held in storage
+[03Oct2025 21:51:57.404] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4675, y=5, z=14117}
+[03Oct2025 21:51:57.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4099.819004689081,-58.92159999847412,12347.917854908908
+[03Oct2025 21:52:37.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Kobold
+[03Oct2025 21:52:39.542] [Server thread/DEBUG] [twilightforest/]: Player CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29) respawned and received items held in storage
+[03Oct2025 21:52:42.967] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4675, y=5, z=14117}
+[03Oct2025 21:52:57.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 21:52:57.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 21:55:06.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Take Aim]

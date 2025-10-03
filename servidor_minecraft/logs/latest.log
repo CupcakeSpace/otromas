@@ -2842,3 +2842,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 21:37:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Monster Hunter]
 [03Oct2025 21:39:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Not Today, Thank You]
 [03Oct2025 21:41:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Redcap
+[03Oct2025 21:51:37.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Redcap
+[03Oct2025 21:51:57.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4099.819004689081,-58.92159999847412,12347.917854908908
+[03Oct2025 21:52:37.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Kobold
+[03Oct2025 21:55:06.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Take Aim]
