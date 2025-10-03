@@ -2858,3 +2858,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 22:34:47.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4100.158841695912,-58.92159999847412,12347.517330088713
 [03Oct2025 22:35:40.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -4100.836868641529,-58.92159999847412,12346.81950429262
 [03Oct2025 22:35:43.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! 4101.944314174184,59.07840000152588,-12349.007704101099
+[03Oct2025 22:37:26.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Timed out
+[03Oct2025 22:37:26.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[03Oct2025 22:37:59.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.119:58026] logged in with entity id 15239 at (-4708.018144018077, 7.0, 14175.350921280025)
+[03Oct2025 22:37:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[03Oct2025 22:38:00.007] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[03Oct2025 22:38:00.009] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[03Oct2025 22:41:17.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! 4102.765454723656,59.32352912385573,-12349.68423826259
+[03Oct2025 22:41:21.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -4100.049456899998,-58.92159999847412,12347.082085509055
+[03Oct2025 22:44:44.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
+[03Oct2025 22:44:44.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
