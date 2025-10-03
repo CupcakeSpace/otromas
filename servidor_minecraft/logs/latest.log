@@ -2834,3 +2834,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 21:21:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
 [03Oct2025 21:21:45.646] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
 [03Oct2025 21:21:45.648] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[03Oct2025 21:26:02.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [Magebloom]
+[03Oct2025 21:31:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss has made the advancement [The Silence of the Forest]
+[03Oct2025 21:34:31.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Timed out
+[03Oct2025 21:34:31.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[03Oct2025 21:34:31.763] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Oct2025 21:37:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Monster Hunter]
+[03Oct2025 21:39:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Not Today, Thank You]
+[03Oct2025 21:41:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace was slain by Redcap
