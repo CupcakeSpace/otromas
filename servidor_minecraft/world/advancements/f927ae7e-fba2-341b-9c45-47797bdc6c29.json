@@ -7462,167 +7462,15 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
-    "criteria": {
-      "has_item": "2025-10-03 23:13:42 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_slope": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_layer": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_coffee_table": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-10-03 21:39:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/package_filter": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:arborist": {
-    "criteria": {
-      "twilight_oak_planks": "2025-10-03 22:09:29 +0000",
-      "twilight_oak_log": "2025-10-03 22:04:26 +0000",
-      "twilight_oak_sapling": "2025-10-03 22:04:48 +0000"
-    },
-    "done": false
-  },
-  "copycats:recipes/crafting/copycat_iron_trapdoor": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-10-03 21:26:16 +0000"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
-    "criteria": {
-      "has_item": "2025-10-03 23:09:18 +0000"
-    },
-    "done": true
-  },
-  "blazinghot:recipes/misc/crafting/zinc_carrot": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_vertical_half_layer": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-10-03 21:26:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-10-03 21:55:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-10-03 22:05:06 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_beam": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/chocolate_box": {
-    "criteria": {
-      "has_chest": "2025-10-03 22:03:18 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_desk_cabinet": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2025-10-03 23:09:08 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/mangrove_wine_rack_small": {
-    "criteria": {
-      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
-    "criteria": {
-      "has_item": "2025-10-03 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
-    "criteria": {
-      "has_item": "2025-10-03 23:13:42 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_byte": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_wooden_button": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
     },
     "done": true
   },
@@ -7638,39 +7486,119 @@
     },
     "done": true
   },
-  "copycats:recipes/crafting/copycat_shaft": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_blinds": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-10-03 21:26:16 +0000"
     },
     "done": true
   },
-  "copycats:recipes/crafting/copycat_pane": {
+  "candlelight:recipes/sandstone_counter": {
     "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_item": "2025-10-03 23:09:18 +0000"
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+  "candlelight:recipes/sandstone_stove": {
     "criteria": {
-      "has_ingots_zinc": "2025-10-03 21:57:34 +0000"
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/sandstone_kitchen_sink": {
+    "criteria": {
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-03 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-10-03 21:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-10-03 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-10-03 21:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-10-03 21:37:02 +0000",
+      "minecraft:spider": "2025-10-03 21:51:25 +0000",
+      "minecraft:zombie": "2025-10-03 22:44:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-10-03 21:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-03 21:40:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/mangrove_wine_rack_small": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
@@ -7686,105 +7614,9 @@
     },
     "done": true
   },
-  "copycats:recipes/crafting/copycat_folding_door": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
-    "criteria": {
-      "has_item": "2025-10-03 21:49:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_table": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/sandstone_counter": {
-    "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-10-03 23:03:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
   "candlelight:recipes/mangrove_shelf": {
     "criteria": {
       "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/gadgets/frame/gold": {
-    "criteria": {
-      "has_item": "2025-10-03 21:59:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2025-10-03 23:14:23 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_sliding_door": {
-    "criteria": {
-      "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_desk": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
-    "criteria": {
-      "has_item": "2025-10-03 21:49:04 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
-    "criteria": {
-      "has_item": "2025-10-03 22:04:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
     },
     "done": true
   },
@@ -7794,21 +7626,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
+      "has_planks": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
-  "vinery:recipes/stackable_log": {
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
-      "has_oak_log": "2025-10-03 21:58:27 +0000"
+      "has_planks": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_table": {
+  "create:recipes/building_blocks/mangrove_window": {
     "criteria": {
-      "has_planks": "2025-10-03 21:58:27 +0000"
+      "has_ingredient": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_drawer": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_table": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_shelf": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_chair": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2025-10-03 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2025-10-03 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-03 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-03 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-10-03 21:55:06 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slope": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_layer": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "blazinghot:recipes/misc/crafting/zinc_carrot": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_half_layer": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_beam": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_byte": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_wooden_button": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_shaft": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_pane": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_folding_door": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_sliding_door": {
+    "criteria": {
+      "has_item": "2025-10-03 21:57:34 +0000"
     },
     "done": true
   },
@@ -7818,33 +7830,9 @@
     },
     "done": true
   },
-  "candlelight:recipes/sandstone_stove": {
-    "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_timer": {
-    "criteria": {
-      "has_item": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_stone_pressure_plate": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
     },
     "done": true
   },
@@ -7854,63 +7842,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_chair": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-10-03 22:07:05 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_cabinet": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
-    "criteria": {
-      "has_item": "2025-10-03 23:13:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/powered_latch": {
-    "criteria": {
-      "has_item": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-10-03 21:40:55 +0000"
     },
     "done": true
   },
@@ -7932,51 +7866,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_park_bench": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_trapdoor": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/wooden_brewingstation": {
-    "criteria": {
-      "has_furnace": "2025-10-03 22:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/mangrove_window": {
-    "criteria": {
-      "has_ingredient": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
@@ -7986,33 +7878,9 @@
     },
     "done": true
   },
-  "candlelight:recipes/sandstone_kitchen_sink": {
-    "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-10-03 21:37:02 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_wooden_pressure_plate": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_cogwheel": {
-    "criteria": {
-      "has_item": "2025-10-03 23:09:08 +0000"
     },
     "done": true
   },
@@ -8022,39 +7890,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_slab": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cake": {
-    "criteria": {
-      "has_the_recipe": "2025-10-03 22:05:06 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
-    "criteria": {
-      "has_item": "2025-10-03 23:09:08 +0000"
     },
     "done": true
   },
@@ -8076,59 +7914,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/pulse_extender": {
-    "criteria": {
-      "has_item": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2025-10-03 21:27:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
-    "criteria": {
-      "has_item": "2025-10-03 23:10:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-10-03 21:59:46 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_flat_pane": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-10-03 21:37:02 +0000",
-      "minecraft:spider": "2025-10-03 21:51:25 +0000",
-      "minecraft:zombie": "2025-10-03 22:44:47 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/oak_crate": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
     },
     "done": true
   },
@@ -8138,51 +7926,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/pulse_repeater": {
-    "criteria": {
-      "has_item": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/mangrove_drawer": {
-    "criteria": {
-      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
@@ -8192,33 +7938,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/oak_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_desk": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_fence": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/mangrove_table": {
-    "criteria": {
-      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
     },
     "done": true
   },
@@ -8228,63 +7950,9 @@
     },
     "done": true
   },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-10-03 23:13:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_stairs": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-03 21:49:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_crate": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:hill1": {
-    "criteria": {
-      "redcap": "2025-10-03 22:30:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-10-03 22:05:06 +0000"
     },
     "done": true
   },
@@ -8294,51 +7962,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-10-03 22:05:06 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_slab": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/oak_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-10-03 22:27:31 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/mangrove_shelf": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-10-03 21:59:46 +0000"
     },
     "done": true
   },
@@ -8378,48 +8004,6 @@
     },
     "done": true
   },
-  "another_furniture:recipes/mangrove_chair": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_park_bench": {
-    "criteria": {
-      "has_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-03 22:05:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -8432,39 +8016,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_the_recipe": "2025-10-03 21:28:22 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grapevine_stem": {
-    "criteria": {
-      "has_oak_log": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "candlelight:recipes/mangrove_chair": {
-    "criteria": {
-      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_fence": {
-    "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_vertical_slice": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
     },
     "done": true
   },
@@ -8474,81 +8028,39 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/crank_wheel": {
-    "criteria": {
-      "has_item": "2025-10-03 23:09:08 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/crafting/copycat_ladder": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
     },
     "done": true
   },
-  "candlelight:recipes/mangrove_cabinet": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
-      "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
-      "has_item": "2025-10-03 22:27:31 +0000"
+      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_fence_gate": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
+      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_button": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_planks": "2025-10-03 21:46:00 +0000"
+      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_chair": {
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_planks": "2025-10-03 21:58:27 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/crafting/copycat_large_cogwheel": {
-    "criteria": {
-      "has_item": "2025-10-03 23:13:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2025-10-03 23:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-10-03 21:49:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-10-03 21:26:16 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/cross_connector": {
-    "criteria": {
-      "has_item": "2025-10-03 23:09:18 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
-    "criteria": {
-      "has_item": "2025-10-03 22:09:29 +0000"
+      "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
     },
     "done": true
   },
@@ -8558,15 +8070,503 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "cfm:recipes/decorations/oak_coffee_table": {
     "criteria": {
-      "crafting_table": "2025-10-03 21:27:45 +0000"
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_blinds": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_table": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_table": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_crate": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_desk": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-10-03 21:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-03 21:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-03 21:59:46 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/chocolate_box": {
+    "criteria": {
+      "has_chest": "2025-10-03 22:03:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-10-03 22:09:29 +0000",
+      "twilight_oak_log": "2025-10-03 22:04:26 +0000",
+      "twilight_oak_sapling": "2025-10-03 22:04:48 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-10-03 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-10-03 22:04:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-03 22:05:06 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-10-03 22:07:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-10-03 22:07:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-10-03 22:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-10-03 23:03:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:18 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/cross_connector": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-03 23:10:33 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-10-03 23:13:03 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2025-10-03 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-10-03 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-10-03 23:14:23 +0000"
     },
     "done": true
   },
