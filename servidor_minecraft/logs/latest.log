@@ -2825,3 +2825,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 20:57:53.786] [Server thread/INFO] [com.nitespring.monsterplus.MonsterPlus/]: HELLO from server starting
 [03Oct2025 20:57:53.802] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [03Oct2025 20:57:53.803] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[03Oct2025 21:18:03.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:53346] logged in with entity id 20 at (-627.9825602145223, 65.0, 1779.3658926848252)
+[03Oct2025 21:18:04.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[03Oct2025 21:18:04.753] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[03Oct2025 21:18:04.762] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[03Oct2025 21:18:07.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3560ms or 71 ticks behind
+[03Oct2025 21:21:45.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.119:54046] logged in with entity id 625 at (-565.6524246398067, 65.0, 1752.2769221153483)
+[03Oct2025 21:21:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[03Oct2025 21:21:45.646] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[03Oct2025 21:21:45.648] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
