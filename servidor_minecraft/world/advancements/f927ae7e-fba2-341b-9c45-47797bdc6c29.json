@@ -7782,6 +7782,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-10-03 21:58:27 +0000"
@@ -7827,6 +7833,18 @@
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
     },
     "done": true
   },
@@ -7902,6 +7920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/mangrove_window": {
     "criteria": {
       "has_ingredient": "2025-10-03 21:46:00 +0000"
@@ -7944,6 +7968,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-10-03 21:46:00 +0000"
@@ -7953,6 +7983,12 @@
   "copycats:recipes/crafting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
     },
     "done": true
   },
@@ -7977,6 +8013,18 @@
   "create:recipes/misc/crafting/appliances/chain_from_zinc": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
     },
     "done": true
   },
@@ -8023,9 +8071,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
     },
     "done": true
   },
@@ -8095,6 +8161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_stairs": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -8128,6 +8200,12 @@
   "cfm:recipes/decorations/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-10-03 22:30:22 +0000"
     },
     "done": true
   },
@@ -8170,6 +8248,12 @@
   "cfm:recipes/decorations/stripped_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-10-03 22:27:31 +0000"
     },
     "done": true
   },
@@ -8326,6 +8410,12 @@
   "candlelight:recipes/mangrove_cabinet": {
     "criteria": {
       "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-10-03 22:27:31 +0000"
     },
     "done": true
   },

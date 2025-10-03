@@ -2850,3 +2850,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 22:06:51.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! 4102.865678966518,59.32352912385573,-12349.704521399757
 [03Oct2025 22:12:58.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4100.927058576478,-58.974641421027,12348.084699449899
 [03Oct2025 22:22:00.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! 4102.55513410729,59.07840000152588,-12349.096541809118
+[03Oct2025 22:29:25.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NergalAbyss[/192.168.193.119:52100] logged in with entity id 12837 at (-577.5988181130034, 66.0, 1792.732668301716)
+[03Oct2025 22:29:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss joined the game
+[03Oct2025 22:29:25.336] [Server thread/INFO] [Jade/]: Syncing config to NergalAbyss (cd42f0fc-efd2-3fb9-8360-7312b7d506f4)
+[03Oct2025 22:29:25.337] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[03Oct2025 22:30:22.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [The Boots Are Mine!]
+[03Oct2025 22:34:47.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4100.158841695912,-58.92159999847412,12347.517330088713
+[03Oct2025 22:35:40.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -4100.836868641529,-58.92159999847412,12346.81950429262
+[03Oct2025 22:35:43.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! 4101.944314174184,59.07840000152588,-12349.007704101099
