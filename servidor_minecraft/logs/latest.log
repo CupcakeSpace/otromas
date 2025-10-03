@@ -2875,3 +2875,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 23:21:49.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
 [03Oct2025 23:21:49.460] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
 [03Oct2025 23:21:49.461] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[03Oct2025 23:51:53.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Hot Stuff]
