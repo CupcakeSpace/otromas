@@ -3859,6 +3859,7 @@
       "bread": "2025-10-03 02:44:53 +0000",
       "glow_berries": "2025-10-03 02:25:32 +0000",
       "dried_kelp": "2025-10-03 02:21:35 +0000",
+      "cooked_chicken": "2025-10-03 22:12:54 +0000",
       "cooked_salmon": "2025-10-03 02:48:28 +0000"
     },
     "done": false
@@ -7491,6 +7492,14 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2025-10-03 22:09:29 +0000",
+      "twilight_oak_log": "2025-10-03 22:04:26 +0000",
+      "twilight_oak_sapling": "2025-10-03 22:04:48 +0000"
+    },
+    "done": false
+  },
   "copycats:recipes/crafting/copycat_iron_trapdoor": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -7527,6 +7536,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_beam": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -7539,6 +7554,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/chocolate_box": {
+    "criteria": {
+      "has_chest": "2025-10-03 22:03:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-10-03 21:58:27 +0000"
@@ -7548,6 +7569,12 @@
   "vinery:recipes/mangrove_wine_rack_small": {
     "criteria": {
       "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-10-03 22:04:26 +0000"
     },
     "done": true
   },
@@ -7671,6 +7698,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_sliding_door": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -7692,6 +7731,12 @@
   "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
     "criteria": {
       "has_item": "2025-10-03 21:49:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-10-03 22:04:26 +0000"
     },
     "done": true
   },
@@ -7773,9 +7818,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-10-03 22:07:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2025-10-03 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
     },
     "done": true
   },
@@ -7827,9 +7884,21 @@
     },
     "done": true
   },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-10-03 22:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
     },
     "done": true
   },
@@ -7887,6 +7956,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -7902,6 +7977,12 @@
   "create:recipes/misc/crafting/appliances/chain_from_zinc": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
     },
     "done": true
   },
@@ -7945,6 +8026,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
     },
     "done": true
   },
@@ -8044,15 +8131,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_block": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_slab": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
     },
     "done": true
   },
@@ -8140,6 +8245,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-10-03 21:58:27 +0000"
@@ -8185,6 +8302,12 @@
   "copycats:recipes/crafting/copycat_vertical_slice": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
     },
     "done": true
   },
@@ -8236,6 +8359,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-10-03 21:58:26 +0000"
@@ -8245,6 +8374,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-10-03 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-10-03 22:05:06 +0000"
     },
     "done": true
   },
