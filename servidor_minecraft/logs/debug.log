@@ -19807,3 +19807,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 22:12:57.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Oct2025 22:12:58.216] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4675, y=5, z=14117}
 [03Oct2025 22:12:58.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4100.927058576478,-58.974641421027,12348.084699449899
+[03Oct2025 22:17:57.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 22:17:57.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 22:21:59.532] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-572, y=64, z=1768}
+[03Oct2025 22:22:00.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! 4102.55513410729,59.07840000152588,-12349.096541809118
+[03Oct2025 22:22:57.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 22:22:57.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 22:24:11.813] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4675, y=5, z=14117}

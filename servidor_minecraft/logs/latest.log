@@ -2849,3 +2849,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 22:04:20.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4100.010007233937,-58.92159999847412,12348.173821351993
 [03Oct2025 22:06:51.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! 4102.865678966518,59.32352912385573,-12349.704521399757
 [03Oct2025 22:12:58.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4100.927058576478,-58.974641421027,12348.084699449899
+[03Oct2025 22:22:00.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! 4102.55513410729,59.07840000152588,-12349.096541809118
