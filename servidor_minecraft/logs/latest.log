@@ -2868,3 +2868,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 22:41:21.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss moved too quickly! -4100.049456899998,-58.92159999847412,12347.082085509055
 [03Oct2025 22:44:44.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
 [03Oct2025 22:44:44.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
+[03Oct2025 23:13:03.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Bonk!]
+[03Oct2025 23:17:30.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Timed out
+[03Oct2025 23:17:30.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game

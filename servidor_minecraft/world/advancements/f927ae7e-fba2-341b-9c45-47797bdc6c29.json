@@ -7462,6 +7462,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:13:42 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_slope": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -7509,6 +7515,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:18 +0000"
     },
     "done": true
   },
@@ -7566,6 +7578,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/mangrove_wine_rack_small": {
     "criteria": {
       "has_mangrove_planks": "2025-10-03 21:46:00 +0000"
@@ -7587,6 +7605,12 @@
   "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2025-10-03 21:46:00 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
+    "criteria": {
+      "has_item": "2025-10-03 23:13:42 +0000"
     },
     "done": true
   },
@@ -7638,6 +7662,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-10-03 21:57:34 +0000"
@@ -7680,6 +7710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-10-03 23:03:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-10-03 21:58:27 +0000"
@@ -7701,6 +7737,12 @@
   "twilightforest:recipes/redstone/wood/twilight_oak_door": {
     "criteria": {
       "has_item": "2025-10-03 22:09:29 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-10-03 23:14:23 +0000"
     },
     "done": true
   },
@@ -7836,6 +7878,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:13:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-10-03 22:27:31 +0000"
@@ -7962,6 +8010,12 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -7995,6 +8049,12 @@
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-10-03 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
     },
     "done": true
   },
@@ -8037,6 +8097,12 @@
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-10-03 21:27:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-03 23:10:33 +0000"
     },
     "done": true
   },
@@ -8159,6 +8225,12 @@
   "copycats:recipes/crafting/copycat_half_layer": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-10-03 23:13:03 +0000"
     },
     "done": true
   },
@@ -8402,6 +8474,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_ladder": {
     "criteria": {
       "has_item": "2025-10-03 21:57:34 +0000"
@@ -8438,6 +8516,18 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-10-03 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-10-03 21:49:04 +0000"
@@ -8447,6 +8537,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-10-03 21:26:16 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/cross_connector": {
+    "criteria": {
+      "has_item": "2025-10-03 23:09:18 +0000"
     },
     "done": true
   },

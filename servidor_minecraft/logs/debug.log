@@ -21731,3 +21731,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 23:02:57.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Oct2025 23:02:57.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Oct2025 23:02:59.182] [Server thread/DEBUG] [mixin/]: Mixing copycat.door.BlockHelperMixin from copycats-common.mixins.json into com.simibubi.create.foundation.utility.BlockHelper
+[03Oct2025 23:07:35.792] [Server thread/DEBUG] [mixin/]: Mixing compat.create.DirectBeltInputBehaviourMixin from petrolpark.mixins.json into com.simibubi.create.content.kinetics.belt.behaviour.DirectBeltInputBehaviour
+[03Oct2025 23:07:42.640] [Server thread/DEBUG] [mixin/]: Mixing compat.create.accessor.DepotBehaviourAccessor from petrolpark.mixins.json into com.simibubi.create.content.logistics.depot.DepotBehaviour
+[03Oct2025 23:07:42.640] [Server thread/DEBUG] [mixin/]: Mixing compat.create.DepotBehaviourMixin from petrolpark.mixins.json into com.simibubi.create.content.logistics.depot.DepotBehaviour
+[03Oct2025 23:07:42.642] [Server thread/DEBUG] [mixin/]: Unexpected: Registered method getHeldItem()Lcom/simibubi/create/content/kinetics/belt/transport/TransportedItemStack; in com.simibubi.create.content.logistics.depot.DepotBehaviour was not merged
+[03Oct2025 23:07:57.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 23:07:57.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 23:12:37.989] [Server thread/DEBUG] [mixin/]: Mixing compat.create.SharedDepotBlockMethodsMixin from petrolpark.mixins.json into com.simibubi.create.content.logistics.depot.SharedDepotBlockMethods
+[03Oct2025 23:12:57.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 23:12:57.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 23:13:03.666] [Server thread/DEBUG] [mixin/]: Mixing compat.create.RecipeApplierMixin from petrolpark.mixins.json into com.simibubi.create.foundation.recipe.RecipeApplier
+[03Oct2025 23:13:03.666] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$inApplyRecipeOn$0(Lcom/petrolpark/contamination/IContamination;Lcom/petrolpark/contamination/IContamination;)V to md6d48e2$lambda$inApplyRecipeOn$0$0 in petrolpark.mixins.json:compat.create.RecipeApplierMixin
+[03Oct2025 23:13:03.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace has made the advancement [Bonk!]
+[03Oct2025 23:17:30.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Timed out
+[03Oct2025 23:17:30.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
