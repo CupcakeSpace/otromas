@@ -8570,5 +8570,41 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-10-03 23:23:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-10-03 23:23:38 +0000"
+    },
+    "done": true
+  },
+  "cgs:recipes/combat/frag_grenade": {
+    "criteria": {
+      "has_iron_sheet": "2025-10-03 23:23:38 +0000"
+    },
+    "done": true
+  },
+  "cgs:recipes/combat/spear": {
+    "criteria": {
+      "has_iron_sheet": "2025-10-03 23:23:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-10-03 23:23:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-10-03 23:23:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
