@@ -21720,3 +21720,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [03Oct2025 22:44:44.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NergalAbyss lost connection: Disconnected
 [03Oct2025 22:44:44.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NergalAbyss left the game
 [03Oct2025 22:46:11.666] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4675, y=5, z=14117}
+[03Oct2025 22:47:57.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 22:47:57.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 22:49:03.366] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-572, y=64, z=1768}
+[03Oct2025 22:52:57.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 22:52:57.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 22:57:57.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 22:57:57.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 23:02:02.072] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=-4675, y=5, z=14117}
+[03Oct2025 23:02:57.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 23:02:57.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 23:02:59.182] [Server thread/DEBUG] [mixin/]: Mixing copycat.door.BlockHelperMixin from copycats-common.mixins.json into com.simibubi.create.foundation.utility.BlockHelper
