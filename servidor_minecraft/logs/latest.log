@@ -2832,3 +2832,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [04Oct2025 04:28:51.202] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
 [04Oct2025 04:28:51.210] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
 [04Oct2025 04:28:53.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3251ms or 65 ticks behind
+[04Oct2025 04:57:34.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[04Oct2025 04:57:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
