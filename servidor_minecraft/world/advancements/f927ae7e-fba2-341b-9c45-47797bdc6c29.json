@@ -3855,6 +3855,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "tropical_fish": "2025-10-04 00:59:10 +0000",
       "apple": "2025-10-03 03:28:00 +0000",
       "cooked_cod": "2025-10-03 21:58:50 +0000",
       "bread": "2025-10-03 02:44:53 +0000",
@@ -8572,6 +8573,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinker_station": {
+    "criteria": {
+      "has_item": "2025-10-04 01:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-03 23:49:23 +0000"
@@ -8602,6 +8609,12 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-10-04 00:57:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-10-04 00:31:30 +0000"
@@ -8629,6 +8642,18 @@
   "twilightforest:recipes/decorations/wood/twilight_oak_banister": {
     "criteria": {
       "has_item": "2025-10-04 00:33:31 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/frame": {
+    "criteria": {
+      "has_campfire": "2025-10-04 00:58:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2025-10-04 01:05:29 +0000"
     },
     "done": true
   },
@@ -8824,6 +8849,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/part_builder": {
+    "criteria": {
+      "has_item": "2025-10-04 01:05:29 +0000"
+    },
+    "done": true
+  },
   "cgs:recipes/combat/hammer_diamond": {
     "criteria": {
       "has_diamond": "2025-10-04 00:30:40 +0000"
@@ -8932,6 +8963,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-10-04 01:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-10-04 00:31:30 +0000"
@@ -8947,6 +8984,12 @@
   "candlelight:recipes/plate": {
     "criteria": {
       "has_white_dye": "2025-10-03 23:38:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2025-10-04 01:05:29 +0000"
     },
     "done": true
   },
@@ -8974,6 +9017,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-10-04 00:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-03 23:49:23 +0000"
@@ -8989,6 +9038,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-03 23:49:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2025-10-04 01:05:29 +0000"
     },
     "done": true
   },
@@ -9058,9 +9113,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2025-10-04 01:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-10-03 23:38:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_chest": {
+    "criteria": {
+      "has_item": "2025-10-04 01:05:29 +0000"
     },
     "done": true
   },
@@ -9142,9 +9209,21 @@
     },
     "done": true
   },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-10-04 01:06:54 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_box": {
     "criteria": {
       "has_glass": "2025-10-03 23:49:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-10-04 00:58:52 +0000"
     },
     "done": true
   },
@@ -9175,6 +9254,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-10-03 23:49:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2025-10-04 01:05:29 +0000"
     },
     "done": true
   },
