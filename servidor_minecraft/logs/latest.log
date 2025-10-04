@@ -2827,3 +2827,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [04Oct2025 04:07:28.606] [Server thread/INFO] [com.nitespring.monsterplus.MonsterPlus/]: HELLO from server starting
 [04Oct2025 04:07:28.619] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [04Oct2025 04:07:28.620] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[04Oct2025 04:28:50.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:52109] logged in with entity id 20 at (-722.9475476545673, 63.0, 1772.994899604696)
+[04Oct2025 04:28:51.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[04Oct2025 04:28:51.202] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[04Oct2025 04:28:51.210] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[04Oct2025 04:28:53.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3251ms or 65 ticks behind
