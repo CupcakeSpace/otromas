@@ -18863,3 +18863,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [04Oct2025 04:57:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
 [04Oct2025 05:02:31.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Oct2025 05:02:31.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 05:07:31.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 05:07:31.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Oct2025 05:12:31.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Oct2025 05:12:31.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
