@@ -9701,5 +9701,35 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-10-07 22:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-10-07 22:22:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-10-07 22:22:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2025-10-07 22:22:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
+    "criteria": {
+      "has_item": "2025-10-07 22:22:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

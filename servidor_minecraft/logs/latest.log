@@ -2850,3 +2850,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Oct2025 22:07:41.636] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
 [07Oct2025 22:07:41.637] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
 [07Oct2025 22:07:50.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Patrol'/1669, l='ServerLevel[world]', x=-4599.50, y=14.00, z=14066.21] died: Patrol died due to parasite infestation
+[07Oct2025 22:13:28.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! 4102.488168572608,59.32352912385573,-12350.139090586445
+[07Oct2025 22:23:10.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Disconnected
+[07Oct2025 22:23:10.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
