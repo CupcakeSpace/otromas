@@ -19739,3 +19739,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Oct2025 21:30:05.043] [Server thread/DEBUG] [com.cerbon.better_totem_of_undying.util.BTUConstants/]: Loaded com.cerbon.better_totem_of_undying.forge.platform.ForgeCharmHelper@586dfcba for service interface com.cerbon.better_totem_of_undying.platform.services.ICharmHelper
 [07Oct2025 21:30:29.472] [Server thread/DEBUG] [mixin/]: Mixing kineticbattery.DeployerHandlerMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.deployer.DeployerHandler
 [07Oct2025 21:30:29.472] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:kineticbattery.DeployerHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[07Oct2025 21:33:00.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Oct2025 21:33:00.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Oct2025 21:38:00.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Oct2025 21:38:00.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
