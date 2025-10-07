@@ -2845,3 +2845,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Oct2025 21:53:31.054] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
 [07Oct2025 22:00:46.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Timed out
 [07Oct2025 22:00:46.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[07Oct2025 22:07:41.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:61172] logged in with entity id 1667 at (-4614.405944282891, 2.0, 14076.163785636449)
+[07Oct2025 22:07:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[07Oct2025 22:07:41.636] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[07Oct2025 22:07:41.637] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[07Oct2025 22:07:50.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RecruitShieldmanEntity['Patrol'/1669, l='ServerLevel[world]', x=-4599.50, y=14.00, z=14066.21] died: Patrol died due to parasite infestation
