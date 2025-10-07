@@ -2837,3 +2837,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Oct2025 21:27:42.657] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
 [07Oct2025 21:27:42.659] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
 [07Oct2025 21:30:01.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4100.275245308367,-58.974641421027,12348.101097723275
+[07Oct2025 21:43:59.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Timed out
+[07Oct2025 21:43:59.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
