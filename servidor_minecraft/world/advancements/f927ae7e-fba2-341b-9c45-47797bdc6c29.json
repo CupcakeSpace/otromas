@@ -9431,6 +9431,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-10-04 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-10-04 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-10-04 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2025-10-04 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-10-04 04:38:48 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-10-04 04:38:48 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-10-04 04:38:48 +0000"
+    },
+    "done": true
+  },
+  "longwings:recipes/decorations/sugar_water_bowl": {
+    "criteria": {
+      "has_items": "2025-10-04 04:38:48 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/wooden_bucket": {
     "criteria": {
       "has_planks": "2025-10-04 04:41:53 +0000"
@@ -9446,12 +9494,6 @@
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2025-10-04 04:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-10-04 04:29:39 +0000"
     },
     "done": true
   },
@@ -9476,12 +9518,6 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-10-04 04:41:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-10-04 04:29:39 +0000"
     },
     "done": true
   },
@@ -9515,21 +9551,9 @@
     },
     "done": true
   },
-  "bakery:recipes/dough": {
-    "criteria": {
-      "has_sugar": "2025-10-04 04:38:48 +0000"
-    },
-    "done": true
-  },
   "meadow:recipes/wooden_flower_pot": {
     "criteria": {
       "has_oak_planks": "2025-10-04 04:41:53 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/loam": {
-    "criteria": {
-      "has_clay_ball": "2025-10-04 04:29:39 +0000"
     },
     "done": true
   },
@@ -9581,33 +9605,9 @@
     },
     "done": true
   },
-  "bakery:recipes/sweet_dough": {
-    "criteria": {
-      "has_sugar": "2025-10-04 04:38:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-10-04 04:41:53 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cake_dough": {
-    "criteria": {
-      "has_sugar": "2025-10-04 04:38:48 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/grout": {
-    "criteria": {
-      "has_item": "2025-10-04 04:29:39 +0000"
-    },
-    "done": true
-  },
-  "longwings:recipes/decorations/sugar_water_bowl": {
-    "criteria": {
-      "has_items": "2025-10-04 04:38:48 +0000"
     },
     "done": true
   },

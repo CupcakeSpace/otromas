@@ -2825,3 +2825,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'neoforge:loot_table_id'
 [07Oct2025 21:12:56.657] [Server thread/INFO] [com.nitespring.monsterplus.MonsterPlus/]: HELLO from server starting
 [07Oct2025 21:12:56.671] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [07Oct2025 21:12:56.673] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[07Oct2025 21:26:17.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:63306] logged in with entity id 20 at (-576.0351290852481, 65.0, 1782.9327723887354)
+[07Oct2025 21:26:18.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[07Oct2025 21:26:18.964] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[07Oct2025 21:26:18.975] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[07Oct2025 21:26:21.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3463ms or 69 ticks behind
+[07Oct2025 21:27:08.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace lost connection: Timed out
+[07Oct2025 21:27:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace left the game
+[07Oct2025 21:27:42.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CupcakeSpace[/192.168.193.28:60181] logged in with entity id 250 at (-576.0351290852481, 65.0, 1782.9327723887354)
+[07Oct2025 21:27:42.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CupcakeSpace joined the game
+[07Oct2025 21:27:42.657] [Server thread/INFO] [Jade/]: Syncing config to CupcakeSpace (f927ae7e-fba2-341b-9c45-47797bdc6c29)
+[07Oct2025 21:27:42.659] [Server thread/ERROR] [recruits/]: Villager recruits could not check for updates!
+[07Oct2025 21:30:01.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CupcakeSpace moved too quickly! -4100.275245308367,-58.974641421027,12348.101097723275
